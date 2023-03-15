@@ -1,0 +1,85 @@
+html{
+    min-height: 100%;
+    background-color: rgb(242, 254, 255);
+}
+
+body{
+    background-color: rgb(242, 254, 255);
+}
+
+#specialcase{
+    color: black;
+}
+
+#summaryblock{
+    margin-top: 10vh;
+    width: 100vh;
+    height: 15vh;
+    text-align: center;
+    border: 5px solid orange;
+    border-radius: 30px;
+    left: 25%;
+    padding: 20px;
+    padding-bottom: 90px;
+    position: relative;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.547);
+    z-index: 2;
+}
+
+#apiblock{
+    margin-top: 10vh;
+    width: 100vh;
+    height: 15vh;
+    text-align: center;
+    border: 5px solid #2a75bb;
+    border-radius: 30px;
+    left: 25%;
+    padding: 20px;
+    position: relative;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.547);
+    z-index: 1;
+}
+
+#acc1{
+    
+    width: 80%;
+    left: 50%;
+    margin-left: 10%;
+    margin-bottom: 20%;
+    
+}
+
+#cardsu{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 20%;
+}
+
+.landheader{
+    margin-top: 10vh;
+    margin-left: 10%;
+}
+
+.landheader2{
+    margin-top: -10%;
+    margin-left: 10%;
+}
+
+.headerimage{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(".././images/header2.jpg");
+    height: 30vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.459);
+}
+
+
+.headertext{
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, +100%);
+    color: white;
+}
