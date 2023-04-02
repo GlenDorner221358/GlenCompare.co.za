@@ -6,7 +6,6 @@ import { Nav } from "react-bootstrap";
 function Sidebar (){
     return(
         <div id="Navcont">
-            <div class="menubox"> </div>
             <div class="navbarbox logo"> <h2 id="logo"> GlenCompare </h2> </div>
             
             <Nav classname="me-auto">

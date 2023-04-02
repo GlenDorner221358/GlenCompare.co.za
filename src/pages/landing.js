@@ -7,9 +7,12 @@ import fight from '.././images/fight.jpeg';
 import stats from '.././images/stats.png';
 import moves from '.././images/moves.jpeg';
 
+
+
 function Landing (){
     return(
         <div>
+            <div class="bgcolorLOL"> 
             <div class="headerimage">
                 <div class="headertext">
                     <h1> Welcome to GlenCompare! </h1>
@@ -80,7 +83,8 @@ function Landing (){
                     <small className="text-muted"> Some moves are learned without evolving! </small>
                     </Card.Footer>
                 </Card>
-            </CardGroup>         
+            </CardGroup>    
+            </div>     
 
         </div>
     )

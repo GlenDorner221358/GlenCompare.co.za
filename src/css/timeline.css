@@ -1,0 +1,76 @@
+html{
+    min-height: 100%;
+}
+
+.bgcolorLOL2{
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    position: absolute;
+    background-color: rgb(255, 182, 45) ;
+}
+
+.headerimage2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(".././images/time.jpg");
+    height: 20vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.459);
+}
+
+.headertext2{
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    transform: translate(-25%, +100%);
+    color: white;
+}
+
+.Charteese{
+    height: 100%;
+    width: 70%;
+    margin-left: 20%;
+}
+
+#timelinetutorial{
+    height: auto;
+    width: 70%;
+    margin-left: 20%;
+    margin-top: 5%;
+    background-color: rgba(255, 255, 255, 0.914);
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.459);
+}
+
+#Chartlabel{
+    margin-bottom: 3%;
+}
+
+#ChartSelector{
+    margin-bottom: 3%;
+}
+
+#backgroundColor{
+    margin-top: 5%;
+    height: auto;
+    width: 71%;
+    background-color: rgba(255, 255, 255, 0.914);
+    z-index: -1;
+    margin-top: 9%;
+    margin-bottom: 5%;
+    margin-left: 19%;
+    position: relative;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.459);
+}
+
+.Charteese{
+    margin-left: 50px;
+    width: 1000px; 
+    text-align: center;
+}

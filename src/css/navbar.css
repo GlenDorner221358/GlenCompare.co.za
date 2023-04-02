@@ -1,31 +1,10 @@
 html{
     min-height: 100%;
-    background-color: rgb(242, 254, 255);
-}
-
-body{
-    background-color: rgb(242, 254, 255);
 }
 
 #logo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: orange;
-}
-
-.menubox{
-    width: 30px;
-    height: 30px;
-    margin-top: 10%;
-    left: 50%;
-    transform: translate(+80%, +0%);
-    background-image: url(".././images/menu.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.menubox:hover{
-    background-image: url(".././images/menu2.png");
 }
 
 .logo{
@@ -40,12 +19,12 @@ body{
     margin-top: -2%;
     position: fixed;
     background-image: linear-gradient(to bottom right, rgb(20, 20, 20) , rgb(35, 35, 35));
-    width: 15%;
+    width: 13%;
     color: white;
     font-family: sans-serif;
     height: 110vh;
     font-size: 25px;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.54);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.54);
 }
 
 .navbarbox{
