@@ -79,12 +79,6 @@ Here are some mockups for the different page of the webpage.
 ![Compare](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/Mockups/Compare%20mockup.png)
 ![Timeline](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/Mockups/Timeline%20mockup.png)
 
-## Video demonstration
-
-Here is a link to the video demonstration.
-(URL) <br>
-[Video](URL)
-
 
 ## CONCLUSION
 
