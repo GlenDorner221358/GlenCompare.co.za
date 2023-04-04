@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# ABOUT THE PROJECT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to glencompare! This project compares the stats of 2 different pokemon using the open API called pokeAPI and displays them on on easy to understand charts using chartjs!
 
-## Available Scripts
+This project was built using React, Chartjs, bootstrap, axios and react-routing! And of course, the pokeAPI...
 
-In the project directory, you can run:
 
-### `npm start`
+## GETTING STARTED
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+First of all, these files do not have the 'node_modules' file included, you are going to have to use your own.
 
-### `npm test`
+For this project to work you are going to have to install these dependencies (React-routing, Bootstrap, Chartjs, chartjs2 and axios).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### How to install
 
-### `npm run build`
+1. Download and open the project files.
+2. Create a new react app (npx create-react-app 'name') (this will install the node_modules file)
+3. Navigate into the project directory (cd 'name')
+4. Install all dependencies (npm i 'dependency')
+5. Run npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## FEATURES AND FUNCTIONALITY
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Using this website you can:
+1. Compare the stats of 2 different pokemon (any pokemon)
+2. See how many things were introduced in each gen on the timeline page.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## CONCEPT PROCESS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Ideation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I chose the pokeAPI as my api of choice as I am very familiar with the pokemon games and the data you can pull from them. From the stat I wanted this website to be about comparing 2 pokemon.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Wireframes
 
-## Learn More
+The wireframes are located in the repo itself but if you dont want to download and view them there, here they are 
+![Wireframe1](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/DV200%20Landing%20dashboard%20low%20fidelity.png)
+![Wireframe2](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/DV200%20Timeline%20page%20low%20fidelity.png)
+![Wireframe3](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/DV200%20Comparison%20page%20low%20fidelity.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Custom UI
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The brief for this part was not very specific, so for my custom UI elements I added some bootstrap cards at the bottom of my Landing page describing some functions of the website.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## DEVELOPMENT PROCESS
 
-### Analyzing the Bundle Size
+### Implementation process
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### Highlights
 
-### Making a Progressive Web App
+* The biggest thing I want to highlight is how much chatgpt sped up the coding process.
+* The compare page updates as you type, not all at once.
+* A really cool feature I added was displaying the sprites of the pokemon you are comparing. I feel this adds a nice visual aspect to help you when comparing.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Challenges
 
-### Advanced Configuration
+* When importing some code from chatgpt, it forgets the main chartjs auto import that makes the charts actually display. Took me a while to figure that out.
+* React also does not have error messages for dependencies or some syntax errors, so sometimes when I messed up code I just wouldn't know what was wrong.
+* Some of the css was also a challenge because of the component based nature of react.
+* For the charts on the compare page, because of the nature of pokemon you cant really display a chart that will apply to EVERY pokemon *except for the base stats*. Every pokemon has base stats.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## FUTURE IMPLEMENTATION
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Some functionality I would like to add to this website is displaying more varied data for the compare page, like moves you can learn in each gen, and type advantages.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## FINAL OUTCOME
+
+### Mockups
+
+Here are some mockups for the different page of the webpage. 
+![Mockup1](URL)
+![Mockup2](URL)
+![Mockup3](URL)
+
+## Video demonstration
+
+Here is a link to the video demonstration.
+(URL) <br>
+[Video](URL)
+
+
+## CONCLUSION
+
+This project was a lot of fun compared to last year. Chatgpt really sped up the process, and the coding we were doing this term seemed to be more basic and understandable.
