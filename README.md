@@ -75,9 +75,9 @@ Some functionality I would like to add to this website is displaying more varied
 ### Mockups
 
 Here are some mockups for the different page of the webpage. 
-![Mockup1](URL)
-![Mockup2](URL)
-![Mockup3](URL)
+![Landing](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/Mockups/Landing%20mockup.png)
+![Compare](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/Mockups/Compare%20mockup.png)
+![Timeline](https://github.com/GlenDorner221358/GlenCompare.co.za/blob/main/Mockups/Timeline%20mockup.png)
 
 ## Video demonstration
 
