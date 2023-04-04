@@ -8,6 +8,7 @@ html{
     z-index: -1;
     position: absolute;
     background-color: rgb(255, 182, 45) ;
+    text-align: center;
 }
 
 .headerimage2{
@@ -29,21 +30,9 @@ html{
 }
 
 .Charteese{
-    height: 100%;
-    width: 70%;
-    margin-left: 20%;
-}
-
-#timelinetutorial{
-    height: auto;
-    width: 70%;
-    margin-left: 20%;
-    margin-top: 5%;
-    background-color: rgba(255, 255, 255, 0.914);
-    border-radius: 15px;
-    padding: 10px;
-    text-align: center;
-    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.459);
+    height: 110%;
+    width: 110%;
+    transform: translate(-8%, -0%);
 }
 
 #Chartlabel{
@@ -55,22 +44,16 @@ html{
 }
 
 #backgroundColor{
-    margin-top: 5%;
     height: auto;
     width: 71%;
     background-color: rgba(255, 255, 255, 0.914);
     z-index: -1;
-    margin-top: 9%;
+    margin-top: 2%;
     margin-bottom: 5%;
-    margin-left: 19%;
+    margin-left: 20%;
     position: relative;
     border-radius: 10px;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.459);
 }
 
-.Charteese{
-    margin-left: 50px;
-    width: 1000px; 
-    text-align: center;
-}

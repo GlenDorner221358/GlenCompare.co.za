@@ -14,13 +14,10 @@ function Timeline (){
                 </div>
             </div>
 
-            <div id="timelinetutorial">
+            <div id="backgroundColor">
                 <h1> How this works... </h1>
                 <p> This is the timeline page. On this page you can see the amount of things introduced in each generation!
                     just use the handy drop-down list to choose what you want displayed on the chart! </p>
-            </div>
-
-            <div id="backgroundColor">
                 <PokemonGraph /> 
             </div>
             

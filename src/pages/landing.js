@@ -21,6 +21,7 @@ function Landing (){
             
             <h1 class="landheader"> Frequently asked questions: </h1>
 
+            {/* The info accordions */}
             <Accordion id="acc1" defaultActiveKey={['0']} alwaysOpen>
             <Accordion.Item eventKey="0">
                 <Accordion.Header>GlenCompare Summary</Accordion.Header>
@@ -43,14 +44,14 @@ function Landing (){
 
             <h1 class="landheader2"> Uses for our site: </h1>
 
+            {/* the info cards */}
             <CardGroup id="cardsu">
                 <Card>
                     <Card.Img variant="top" src={fight} alt="fight.jpeg" />
                     <Card.Body>
-                    <Card.Title> Compare types </Card.Title>
+                    <Card.Title> Compare types of stats! </Card.Title>
                     <Card.Text>
-                        You can compare the types of two different pokemon to determine which would be more
-                        effective in a 1v1 matchup.
+                        You can compare the stats of two different pokemon to determine who better suits your needs when training!
                     </Card.Text>
                     </Card.Body>
                     <Card.Footer>
@@ -60,10 +61,10 @@ function Landing (){
                 <Card>
                     <Card.Img variant="top" src={stats} alt="stats.png" />
                     <Card.Body>
-                    <Card.Title> Compare stats </Card.Title>
+                    <Card.Title> Compare stats! </Card.Title>
                     <Card.Text>
                         You can pull the different base stats of both pokemon to determine which needs
-                        training in which area.
+                        training in which area!
                     </Card.Text>
                     </Card.Body>
                     <Card.Footer>
@@ -73,14 +74,13 @@ function Landing (){
                 <Card>
                     <Card.Img variant="top" src={moves} alt="moves.jpeg" />
                     <Card.Body>
-                    <Card.Title> Compare moves </Card.Title>
+                    <Card.Title> Compare moves of stats! </Card.Title>
                     <Card.Text>
-                        Moves are the deciding factor in a battle. Using our website, you can check what powerful moves
-                        your pokemon is able to learn!
+                        Some stats cause movespeed! Be sure to pay attention as they are named very obviously!
                     </Card.Text>
                     </Card.Body>
                     <Card.Footer>
-                    <small className="text-muted"> Some moves are learned without evolving! </small>
+                    <small className="text-muted"> Some stats are earned without evolving! </small>
                     </Card.Footer>
                 </Card>
             </CardGroup>    

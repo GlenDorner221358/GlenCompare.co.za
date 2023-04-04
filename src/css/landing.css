@@ -18,7 +18,7 @@ html{
     width: 70%;
     left: 50%;
     margin-left: 20%;
-    margin-bottom: 20%;
+    margin-bottom: 15%;
 }
 
 #cardsu{
@@ -28,7 +28,7 @@ html{
 }
 
 .landheader{
-    margin-top: 10vh;
+    margin-top: 2%;
     margin-left: 20%;
     color: #ffcb05;
 }
