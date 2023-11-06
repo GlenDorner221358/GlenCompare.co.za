@@ -173,6 +173,9 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 - [Figma](https://www.figma.com/)
 - [ChatGPT](https://chat.openai.com/)
+- [ReactJS](https://react.dev/)
+- [ChartJS](https://www.chartjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 
 [image1]: src/Assets/Images/Dashboard.png
