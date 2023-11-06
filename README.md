@@ -1,21 +1,3 @@
-### Mockups
-
-Here are some mockups for the different page of the webpage. 
-
-
-
-## CONCLUSION
-
-This project was a lot of fun compared to last year. Chatgpt really sped up the process, and the coding we were doing this term seemed to be more basic and understandable.
-
-
-<br />
-
-![GitHub repo size](https://img.shields.io/github/repo-size/GlenDorner221358/GlenCompare.co.za?color=lightblue)
-![GitHub watchers](https://img.shields.io/github/watchers/GlenDorner221358/GlenCompare.co.za?color=lightblue)
-![GitHub language count](https://img.shields.io/github/languages/count/GlenDorner221358/GlenCompare.co.za?color=lightblue)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GlenDorner221358/GlenCompare.co.za?color=lightblue)
-
 <h5 align="center" style="padding:0;margin:0;"> | Glen Dorner | </h5>
 <h5 align="center" style="padding:0;margin:0;"> | 221358 | </h5>
 <h6 align="center">DV200 | Term 1</h6>
@@ -60,7 +42,7 @@ Welcome to glencompare! This project compares the stats of 2 different pokemon u
 This project was built using React, Chartjs, bootstrap, axios and react-routing! And of course, the pokeAPI...
 
 ### Built With
-[<img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;] [<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;] [<img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" width="6%" height="6%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]
+<img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" width="6%" height="6%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
@@ -164,7 +146,7 @@ The brief for this part was not very specific, so for my custom UI elements I ad
 <!-- VIDEO DEMONSTRATION -->
 
 ### Video Demonstration
-[View Demonstration]()
+[View Demonstration](https://drive.google.com/file/d/1FoSghHigSSr2bVyBVDGUsNAqsjT96ram/view?usp=sharing)
 
 See the [open issues](https://github.com/GlenDorner221358/GlenCompare.co.za/issues) for a list of known issues.
 
